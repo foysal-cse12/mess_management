@@ -10,7 +10,7 @@
 <body>
   <nav> 
     <a href="#home">Home</a>
-    <a href="#about_us">About Us</a>
+    <a href="#about_us">About Developer</a>
     <a href="#contact">Contact</a>
     <a href="/mess/home/login">Login</a>
   </nav>
