@@ -16,7 +16,7 @@
   </nav>
   	<div id="home" class="sect sectOne"></div>
   	<div id="about_us" class="subSection">
-  		<h2 class="about_us">About Us<h2>
+  		<h2 class="about_us">About Deveplopers<h2>
   		<p style="padding-left: 20px;padding-right: 20px">We are seeking a responsible career in an organization where we can utilize our skills, knowledge to work at our level best. To grow with the organization and deliver best possible services. Work hard to achieve the corporate targets and goals keeping in view the corporate mission and vision.</p>
   	</div>
   	<div id="contact" class="sect sectTwo"></div>
