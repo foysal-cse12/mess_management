@@ -12,7 +12,7 @@
     <a href="#home">Home</a>
     <a href="#about_us">About Developer</a>
     <a href="#contact">Contact</a>
-    <a href="/mess/home/login">Login</a>
+    <a href="/mess/home/login">Signin</a>
   </nav>
   	<div id="home" class="sect sectOne"></div>
   	<div id="about_us" class="subSection">
